@@ -1,0 +1,42 @@
+body {
+    overflow-y: hidden;
+    font-family: 'Berkshire Swash', cursive;
+    background: url('../images/bg.jpg');
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+button {
+    margin: 0 auto;
+}
+
+
+
+.btn-lg {
+    width: 120px;
+}
+
+.content {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.handcard {
+
+    height: 70px;
+}
+
+#turn, #hand {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+img {
+    margin-right: 10px;
+    width: 45px;
+    height: auto;
+}
