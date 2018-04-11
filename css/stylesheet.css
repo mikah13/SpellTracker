@@ -13,8 +13,6 @@ button {
     margin: 0 auto;
 }
 
-
-
 .btn-lg {
     width: 120px;
 }
@@ -25,12 +23,11 @@ button {
 }
 
 .handcard {
-
     height: 70px;
 }
 
 #turn, #hand {
-    font-size: 20px;
+    font-size: 23px;
     margin-bottom: 10px;
 }
 
@@ -38,4 +35,7 @@ img {
     margin-right: 10px;
     width: 45px;
     height: auto;
+}
+.data{
+    font-size: 23px;
 }
